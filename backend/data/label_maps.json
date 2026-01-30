@@ -1,0 +1,37 @@
+{
+  "sentiment": {
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2
+  },
+  "behavior": {
+    "very_poor": 0,
+    "poor": 1,
+    "below_average": 2,
+    "neutral": 3,
+    "slightly_positive": 4,
+    "good": 5,
+    "very_good": 6,
+    "excellent": 7
+  },
+  "category": {
+    "account_issue": 0,
+    "complaint": 1,
+    "feedback": 2,
+    "need_help": 3,
+    "technical_issue": 4,
+    "feature_request": 5,
+    "billing_payment": 6,
+    "policy_question": 7,
+    "service_delay": 8,
+    "general_inquiry": 9,
+    "praise_appreciation": 10,
+    "customer_opinion": 11
+  },
+  "urgency": {
+    "low": 0,
+    "medium": 1,
+    "high": 2,
+    "critical": 3
+  }
+}
